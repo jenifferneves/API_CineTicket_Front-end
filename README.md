@@ -73,7 +73,7 @@ cinema-app-frontend/
 │   ├── styles/             # Global styles
 │   ├── utils/              # Utility functions
 │   ├── App.jsx             # Main application component
-│   └── main.jsx           # Application entry point
+│   └── main.jsx           # Application entry poinT
 └── package.json
 ```
 
